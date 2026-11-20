@@ -1,0 +1,6 @@
+{
+  "name": "StreamVault",
+  "description": "Record YouTube live streams and videos in Full HD 1080p and download MP4 archives directly from the browser.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
